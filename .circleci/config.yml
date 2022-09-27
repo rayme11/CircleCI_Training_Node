@@ -35,5 +35,5 @@ jobs:
       - run: npm test
       - run: echo Pipeline was completed
       - run: echo Adding CircleCI / Github status integration
-      - run: echo Running CircleCI / Only PR should trigger build
+      - run: echo Running CircleCI / Only PR should trigger build - fixing status
 
